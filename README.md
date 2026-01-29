@@ -6,12 +6,11 @@ We will demonstrate:
 - Jupyter Notebook
 - Command line
 - Python basics
+    - file I/O & parsing
     - NumPy
-    - Pandas
     - plotting with matplotlib
     - proper docstrings
     - error handling
-    - file I/O & parsing
 - VESTA
 - Set up environment for phase identification and refinement (GSAS II)
 - AutoXRD: Machine learning for phase identification

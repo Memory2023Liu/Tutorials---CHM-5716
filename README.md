@@ -3,16 +3,18 @@
 Developed by Xiaozhao Liu and Prof. Yan Zeng (Spring 2026)
 
 We will demonstrate:
-- Jupyter Notebook
-- Command line
+- Anaconda and Jupyter Notebook
+- Pymatgen and the Materials Project
+- Basic shell command
+- Set up environment for phase identification and refinement (GSAS II)
+- VESTA
 - Python basics
-    - file I/O & parsing
+    - File I/O & parsing
     - NumPy
-    - plotting with matplotlib
+    - Plotting with matplotlib
     - proper docstrings
     - error handling
-- VESTA
-- Set up environment for phase identification and refinement (GSAS II)
+
 - AutoXRD: Machine learning for phase identification
 - AutoRefine
 - More TBA

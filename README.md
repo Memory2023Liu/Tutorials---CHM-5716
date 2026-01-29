@@ -5,7 +5,7 @@ Developed by Xiaozhao Liu and Prof. Yan Zeng (Spring 2026)
 We will demonstrate:
 - Anaconda and Jupyter Notebook
 - Pymatgen and the Materials Project
-- Basic shell command
+- Basic shell commands
 - Set up environment for phase identification and refinement (GSAS II)
 - VESTA
 - Python basics
